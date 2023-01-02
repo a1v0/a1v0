@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I'm Alvo
+- 🌱 I’m a trainee software developer @ Northcoders in Leeds
+- 🔭 I’m looking for a Junior Development Role
+- 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
 <!--
 **a1v0/a1v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
