@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alvo
-- 🌱 I’m a trainee software developer @ Northcoders in Leeds
-- 🔭 I’m looking for a Junior Development Role
+- 🌱 I’m a graduate software developer from Northcoders in Leeds
+- 🔭 I’m looking for a Junior Developer Role
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
 <!--
