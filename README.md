@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Alvo
-- 🌱 I’m a graduate software developer from Northcoders in Leeds
+- 🌱 I graduated as a software developer at Northcoders in Leeds
 - 🔭 I’m currently working as a ServiceNow developer for FlowMotion
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
