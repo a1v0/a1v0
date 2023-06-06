@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alvo
-- 🌱 I graduated as a software developer at Northcoders in Leeds
-- 🔭 I’m currently working as a ServiceNow developer for FlowMotion
+- 🌱 At present I’m doing MIT’s 6.00.1x Computer Science course where I am advancing my Python skills
+- 🔭 I’m working as a JavaScript developer for [FlowMotion](https://flow-motion.io/), where I am currently on a ServiceNow project
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
 <!--
