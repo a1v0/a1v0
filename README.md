@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alvo
-- 🌱 At present I’m doing MIT’s 6.00.1x Computer Science course where I am advancing my Python skills
 - 🔭 I’m working as a JavaScript developer for [FlowMotion](https://flow-motion.io/), where I am currently on a ServiceNow project
+- 🌱 At present I’m learning C# by doing some of John Crickett's coding challenges
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
 <!--
