@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Alvo
-- 🔭 I’m working as a JavaScript developer for [FlowMotion](https://flow-motion.io/), where I am currently on a ServiceNow project
-- 🌱 At present I’m learning C# by doing some of John Crickett's coding challenges
+- 🔭 I’m working as a JavaScript developer for [FlowMotion](https://flow-motion.io/)
 - 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/alvo-von-cossel)
 
 <!--
